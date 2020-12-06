@@ -1,5 +1,6 @@
 # TENMARS_YF-200A
-LCD hack  
+LCD hack
+setup, reference of code https://github.com/xiaolaba/mini-ohm-metre/tree/master/LCD_glass_ver3/ATmega168p_lcd_test
 
 com-seg, 3-1/2, 4 digit LCD,  
 
